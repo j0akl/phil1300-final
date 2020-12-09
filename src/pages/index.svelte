@@ -1,6 +1,6 @@
 <script>
     import { metatags } from '@sveltech/routify'
-    metatags.title = "The Social Model (WIP TITLE)"
+    metatags.title = "Jake's PHIL1300 Final"
 		metatags.description = "Jake Lynn's Final Project PHIL1300 Prof Don Fallis"
 </script>
 
